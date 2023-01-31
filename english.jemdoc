@@ -1,0 +1,80 @@
+# jemdoc: menu{MENU}{index.html}
+==Tao Zan
+
+~~~
+{}{img_left}{pic/zan.png}{tao zan at urwork}{170}{240}
+
+Associate Professor \n 
+Department of Software Engineering \n
+[http://xxgcxy.lyun.edu.cn/ School of Mathematics and Information Engineering] \n
+[http://www.lyun.edu.cn/ Longyan University]\n
+
+Chairman & General Manager\n
+[https://fundebug.com Xiamen Yunqi Information Technology Co., Ltd.]
+
+Huawei SIG-EDSL core member
+~~~
+
+
+
+== News
+
+== Education & Employment
+
+- 2020.03 - now, [http://www.lyun.edu.cn/ Longyan University], Associate Professor
+- 2016.10 - now, [https://fundebug.com/ Xiamen Yunqi Information Technology Co., Ltd.], Chairman & General Manager
+- 2014.9 - 2015.12 [https://www.popin.cc/zh/ PopIn Inc. Baidu], Data Analyst
+- 2013.8 - 2014.7 [http://linksh.ltd/ Beijing Lingqishiyi Software Technology Co.,Ltd], Co-founder
+- 2015.3 Key Lab of High Confidence Software Technologies, Ministry of Education, Peking University, Short Visiting
+- 2014.2 Key Lab of High Confidence Software Technologies, Ministry of Education, Peking University, Short Visiting
+- 2011.10 - 2016.9 [http://www.nii.ac.jp/en National Institute of Informatics (NII)]/[https://www.nii.ac.jp/graduate/ The Graduate University for Advanced Studies] Ph.D. Advisors: [http://sei.pku.edu.cn/~hu/ Zhenjiang Hu], [https://cis.hosei.ac.jp/depts/cs/hidaka/ Soichiro Hidaka], [http://research.nii.ac.jp/~kato/kato/Top.html Hiroyuki Kato]
+- 2007.8 - 2011.7 [https://www.ustc.edu.cn/ 
+University of Science and Technology of China], Bachelor Diploma of Computer Science
+
+== Research
+My main interest is in software engineering, especially about bidirectional transformation, privacy management, program repair, speech-to-program and blockchain technologies.
+
+=== Current Research Projects
+
+- Research on Static Analysis and Automatic Repair of Bugs based on Dynamic Knowledge
+- Research on Key Technologies of End-to-end Software Performance Analysis of Java Programs
+- Speech-to-Code
+
+
+=== Publications
+- Tao Zan, Zhenjiang Hu. *VoiceJava: A Syntax-Directed Voice Programming Language for Java* Electronics 12, no. 1 (2023): 250. https://doi.org/10.3390/electronics12010250
+- Tao Zan, Zhenjiang Hu. *Blockchain-based Bidirectional Transformations for Access Control and Data Sharing in EMRs*. Internetware'2020: 12th Asia-Pacific Symposium on Internetware, Singapore, May 12-14, 2021. [./publications/internetware20.pdf paper]
+- Tao Zan, Hugo Pacheco, Hsiang-Shang Ko and Zhenjiang Hu, BiFluX: A Bidirectional Functional Update Language for XML,Japan Society for Software Science and Technology ComputerSoftware, Vol.33, No.4 (2016),pp.93 - 115
+- Tao Zan, Li Liu, Hsiang-Shang Ko, Zhenjiang Hu, Brul: A Putback-Based Bidirectional Transformation Library for Updatable Views , 5th International Workshop on Bidirectional Transformations (BX 2016), as part of ETAPS 2016, Eindhoven, The Netherlands, April 8, 2016.
+- Xiao Cheng, Yuting Chen, Zhenjiang Hu, Tao Zan, Mengyu Liu, Hao Zhong, Jianjun Zhao, Supporting Selective Undo for Refactoring, 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016), Osaka, Japan, March 14-18, 2016.
+- Hsiang-Shang Ko, Tao Zan, Zhenjiang Hu, BiGUL: A Formally Verified Core Language for Putback-Based Bidirectional Programming, ACM SIGPLAN 2016 Workshop on Partial Evaluation and Program Manipulation (PEPM 2016), St. Petersburg, Florida, United States, January 18 - 19, 2016.
+- Tianqi Zhao,Tao Zan, Haiyan Zhao, Zhenjiang Hu, and Zhi Jin,  Integrating Goal Model intoRule-based Adaptation,23rd Asia-Pacific Software Engineering Conference (APSEC 2016),pp. 289 - 296
+- Luxi Chen, Linpeng Huang, Chen Li, Tao Zan, Integrating behavior analysis into architectural modeling, Frontiers of Computer Science (FCS), Volume 9, Issue 1, pp 15-33, 2015.
+- Hugo Pacheco, Tao Zan, Zhenjiang Hu, BiFluX: A Bidirectional Functional Update Language for XML, The 16th International Symposium on Principles and Practice of Declarative Programming (PPDP 2014).
+- Tao Zan, Hugo Pacheco, Zhenjiang Hu, Writing Bidirectional Model Transformations as Intentional Changes, New Ideas and Emerging Results Track of 36th International Conference on Software Engineering (ICSE 2014), Hyderabad, India, May 31 - June 7, 2014.
+- Luxi Chen, Linpeng Huang, Chen Li, Tao Zan, A Bidirectional Framework for Model Synchronization in Component-Based Software Development, 13th International Conference on Quality Software, (QISC 2013), Nanjing, China, July 29 - 30, 2013
+
+=== Talks
+- Blockchain-based Bidirectional Transformations, Hangzhou, SIG-DSL Tech Salon, July 3rd, 2021
+- How to generate executable program automatically by AI ？2018 Global INS Conference, Peking, September 8th, 2018
+- A Putback-Based Approach to Bidirectional Transformations for Maintaining Consistency, The 5th Asian Workshop of Advanced Software Engineering, March 19-20, 2016.
+- Testing-based Adaptive Model Code Co-evolution (slides), GRACE Workshop on Adaptive and Evolve Software Systems, January 19th, 2015.
+- Tao Zan, Hugo Pacheco, Zhenjiang Hu, Paper Presentation: BiFlux: A Bidirectional Functional Update Language for XML, The 30th JSSST Conference(Japan Society for Software and Science), Sep 10-13, 2013
+- Tao Zan, Yu Liu, Zhenjiang Hu, Paper Presentation: Automatic Parallelization of Graph Queries with MapReduce, The 29th JSSST Conference, Aug. 22, 2012.
+- Yiqing Zhu, Tao Zan, Soichiro Hidaka, Zhenjiang Hu, Paper Presentation: iGRT: A Generic Interface for GRoundTram, The 29th JSSST Conference, Aug. 24, 2012.(Presented by Tao Zan)
+- Yiqing Zhu, Tao Zan, Soichiro Hidaka, Zhenjiang Hu, Poster Presentation: iGRT: A Generic Interface for GRoundTram, The 29th JSSST Conference, Aug. 23, 2012.(Presented by Tao Zan)
+- Tao Zan, Yu Liu, Zhenjiang Hu, Poster Presentation: Automatic Parallelization of Graph Queries with MapReduce, Openhouse, June. 7-8, 2012.
+
+== Teaching
+
+- Data Structure and Algorithms: [https://gitee.com/se-193/ Fall 2020], Spring 2021, Fall 2021
+- Software Architecture and Design: Spring 2021
+
+== Academic Activities
+
+- PC Member: [http://nsclab.org/ica3pp2021/index.html ICA3PP 2021]
+
+== Contact Information
+
+Office: Room 507, Minxue Building, Longyan University \n
+Email: /zan/ at /lyun.edu.cn/ \n

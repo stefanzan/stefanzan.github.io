@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{index.html}
+==昝涛
+
+~~~
+{}{img_left}{pic/zan.png}{tao zan at urwork}{170}{240}
+
+副教授\n 
+软件工程系 \n
+[http://xxgcxy.lyun.edu.cn/ 数学与信息工程学院] \n
+[http://www.lyun.edu.cn/ 龙岩学院]\n
+
+董事长兼总经理\n
+[https://fundebug.com 厦门云麒信息科技有限公司]
+
+华为SIG-EDSL核心成员
+~~~
+
+
+
+== 新闻
+
+== 教育与工作经历
+
+- 2020.03 - 至今 [http://www.lyun.edu.cn/ 龙岩学院]，副教授
+- 2016.10 - 至今 [https://fundebug.com/ 厦门云麒信息科技有限公司]，董事长兼总经理
+- 2013.8 - 2014.7 [http://linksh.ltd/ 北京领祈石诣软件科技有限公司]，联合创始人
+- 2014.9 - 2015.12 [https://www.popin.cc/zh/ PopIn Inc. 百度日本子公司]，数据分析师
+- 2015.3 北京大学，高可信软件技术教育部重点实验室，短期交流
+- 2014.2 北京大学，高可信软件技术教育部重点实验室，短期交流
+- 2011.10 - 2016.9 [http://www.nii.ac.jp/en 日本国立情报学研究所]/[https://www.nii.ac.jp/graduate/ 日本综合研究大学院大学], 工学博士, 指导老师: [http://sei.pku.edu.cn/~hu/ 胡振江], [https://cis.hosei.ac.jp/depts/cs/hidaka/ 日高宗一郎], [http://research.nii.ac.jp/~kato/kato/Top.html 加藤弘之]
+- 2007.8 - 2011.7 [https://www.ustc.edu.cn/ 
+中国科学技术大学], 工学学士
+
+== 科研
+主攻软件工程，包括双向变换、隐私管理、程序修复、语音编程和区块链相关技术。
+
+=== 在研项目
+
+- 基于情境的适应型双向变换程序合成的研究 (省自然科学基金项目(青年创新), 2021J05230, 8万, 2021 - 2024)
+- 基于动态知识的软件bug静态分析及自动修复的研究(博士启动项目，LB2020010，25万, 2020 - 2022)
+- 端到端的信创软件质量监控平台关键技术研究(龙岩市奇迈科技基金，FLY2020QMG010004，30万, 2021 - 2023)
+
+
+=== 论文
+- Tao Zan, Zhenjiang Hu. *VoiceJava: A Syntax-Directed Voice Programming Language for Java* Electronics 12, no. 1 (2023): 250. https://doi.org/10.3390/electronics12010250
+- Tao Zan, Zhenjiang Hu. *Blockchain-based Bidirectional Transformations for Access Control and Data Sharing in EMRs*. Internetware'2020: 12th Asia-Pacific Symposium on Internetware, Singapore, May 12-14, 2021. [./publications/internetware20.pdf paper]
+- Tao Zan, Hugo Pacheco, Hsiang-Shang Ko and Zhenjiang Hu, BiFluX: A Bidirectional Functional Update Language for XML,Japan Society for Software Science and Technology ComputerSoftware, Vol.33, No.4 (2016),pp.93 - 115
+- Tao Zan, Li Liu, Hsiang-Shang Ko, Zhenjiang Hu, Brul: A Putback-Based Bidirectional Transformation Library for Updatable Views , 5th International Workshop on Bidirectional Transformations (BX 2016), as part of ETAPS 2016, Eindhoven, The Netherlands, April 8, 2016.
+- Xiao Cheng, Yuting Chen, Zhenjiang Hu, Tao Zan, Mengyu Liu, Hao Zhong, Jianjun Zhao, Supporting Selective Undo for Refactoring, 23rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2016), Osaka, Japan, March 14-18, 2016.
+- Hsiang-Shang Ko, Tao Zan, Zhenjiang Hu, BiGUL: A Formally Verified Core Language for Putback-Based Bidirectional Programming, ACM SIGPLAN 2016 Workshop on Partial Evaluation and Program Manipulation (PEPM 2016), St. Petersburg, Florida, United States, January 18 - 19, 2016.
+- Tianqi Zhao,Tao Zan, Haiyan Zhao, Zhenjiang Hu, and Zhi Jin,  Integrating Goal Model intoRule-based Adaptation,23rd Asia-Pacific Software Engineering Conference (APSEC 2016),pp. 289 - 296
+- Luxi Chen, Linpeng Huang, Chen Li, Tao Zan, Integrating behavior analysis into architectural modeling, Frontiers of Computer Science (FCS), Volume 9, Issue 1, pp 15-33, 2015.
+- Hugo Pacheco, Tao Zan, Zhenjiang Hu, BiFluX: A Bidirectional Functional Update Language for XML, The 16th International Symposium on Principles and Practice of Declarative Programming (PPDP 2014).
+- Tao Zan, Hugo Pacheco, Zhenjiang Hu, Writing Bidirectional Model Transformations as Intentional Changes, New Ideas and Emerging Results Track of 36th International Conference on Software Engineering (ICSE 2014), Hyderabad, India, May 31 - June 7, 2014.
+- Luxi Chen, Linpeng Huang, Chen Li, Tao Zan, A Bidirectional Framework for Model Synchronization in Component-Based Software Development, 13th International Conference on Quality Software, (QISC 2013), Nanjing, China, July 29 - 30, 2013
+
+=== 演讲
+- 基于区块链的双向同步语言的实现，杭州，SIG-DSL扩展技术沙龙，2021年7月3日
+- 人工智能如何自动编程？2018全球INS大会，北京， 2018年9月8日
+- A Putback-Based Approach to Bidirectional Transformations for Maintaining Consistency, The 5th Asian Workshop of Advanced Software Engineering, March 19-20, 2016.
+- Testing-based Adaptive Model Code Co-evolution (slides), GRACE Workshop on Adaptive and Evolve Software Systems, January 19th, 2015.
+- Tao Zan, Hugo Pacheco, Zhenjiang Hu, Paper Presentation: BiFlux: A Bidirectional Functional Update Language for XML, The 30th JSSST Conference(Japan Society for Software and Science), Sep 10-13, 2013
+- Tao Zan, Yu Liu, Zhenjiang Hu, Paper Presentation: Automatic Parallelization of Graph Queries with MapReduce, The 29th JSSST Conference, Aug. 22, 2012.
+- Yiqing Zhu, Tao Zan, Soichiro Hidaka, Zhenjiang Hu, Paper Presentation: iGRT: A Generic Interface for GRoundTram, The 29th JSSST Conference, Aug. 24, 2012.(Presented by Tao Zan)
+- Yiqing Zhu, Tao Zan, Soichiro Hidaka, Zhenjiang Hu, Poster Presentation: iGRT: A Generic Interface for GRoundTram, The 29th JSSST Conference, Aug. 23, 2012.(Presented by Tao Zan)
+- Tao Zan, Yu Liu, Zhenjiang Hu, Poster Presentation: Automatic Parallelization of Graph Queries with MapReduce, Openhouse, June. 7-8, 2012.
+
+== 课程
+
+- 数据结构与算法: [https://gitee.com/se-193/ 2020年秋], 2021年春, 2021年秋
+- 软件体系结构: 2021年春
+
+== 学术服务
+
+
+- PC Member: [http://nsclab.org/ica3pp2021/index.html ICA3PP 2021]
+
+== 联系方式
+
+办公室: 龙岩学院 敏学楼507 \n
+邮箱: /zan/ at /lyun.edu.cn/ \n
