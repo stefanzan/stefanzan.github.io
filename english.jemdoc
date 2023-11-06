@@ -42,7 +42,9 @@ My main interest is in software engineering, especially about bidirectional tran
 
 
 === Publications
-- Tao Zan, Zhenjiang Hu. *VoiceJava: A Syntax-Directed Voice Programming Language for Java*. Electronics 12, no. 1 (2023): 250. https:\/\/doi.org\/10.3390\/electronics12010250
+- Xing Zhang, Ruifeng Xie, Guanchen Guo, Xiao He, Tao Zan, Zhenjiang Hu. Fusing Direct Manipulations into Functional Programs. 51st ACM SIGPLAN Symposium on Principles of Programming Languages ([https://popl24.sigplan.org/ POPL 2024]), London, United Kingdom, January 17-19, 2024. 
+- Lijie Wang, Tao Zan, Weihua Li, Shengrong Lu, A Syntax-directed Voice-activated Programming Environment for Java, 13th International Conference on IT in Medicine and Education, Wuyishan, China, November 24-26, 2023.
+- Tao Zan, Zhenjiang Hu. VoiceJava: A Syntax-Directed Voice Programming Language for Java. Electronics 12, no. 1 (2023): 250. https:\/\/doi.org\/10.3390\/electronics12010250
 - Tao Zan, Zhenjiang Hu. Blockchain-based Bidirectional Transformations for Access Control and Data Sharing in EMRs. Internetware'2020: 12th Asia-Pacific Symposium on Internetware, Singapore, May 12-14, 2021. [./publications/internetware20.pdf paper]
 - Tao Zan, Hugo Pacheco, Hsiang-Shang Ko and Zhenjiang Hu, BiFluX: A Bidirectional Functional Update Language for XML,Japan Society for Software Science and Technology ComputerSoftware, Vol.33, No.4 (2016),pp.93 - 115
 - Tao Zan, Li Liu, Hsiang-Shang Ko, Zhenjiang Hu, Brul: A Putback-Based Bidirectional Transformation Library for Updatable Views , 5th International Workshop on Bidirectional Transformations (BX 2016), as part of ETAPS 2016, Eindhoven, The Netherlands, April 8, 2016.
