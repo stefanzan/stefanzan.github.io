@@ -35,12 +35,12 @@
 == 科研
 主攻软件工程，包括双向变换、隐私管理、程序修复、语音编程和区块链相关技术。
 
-=== 在研项目
+=== 项目
 
 - 基于情境的适应型双向变换程序合成的研究 (省自然科学基金项目(青年创新), 2021J05230, 8万, 2021 - 2024)
-- 基于动态知识的软件bug静态分析及自动修复的研究(博士启动项目，LB2020010，25万, 2020 - 2023)
+- 基于动态知识的软件bug静态分析及自动修复的研究(博士启动项目，LB2020010，25万, 2020 - 2024)
 - 端到端的信创软件质量监控平台关键技术研究(龙岩市奇迈科技基金，FLY2020QMG010004，30万, 2021 - 2023)
-
+- 基于AI的语音编程系统研发(大学生创新创业训练计划项目，省级，1万，2022-2023)
 
 === 论文
 - Xing Zhang, Ruifeng Xie, Guanchen Guo, Xiao He, Tao Zan, Zhenjiang Hu, Fusing Direct Manipulations into Functional Programs, 51st ACM SIGPLAN Symposium on Principles of Programming Languages ([https://popl24.sigplan.org/ POPL 2024]), London, United Kingdom, January 17-19, 2024.
